@@ -1,0 +1,14 @@
+package fundamentos;
+
+public class PrimeiroPrograma {
+	
+	/*
+	 * 		Atalho para criar o método main
+	 *   Digite o nome main. Depois, segure a tecla ctrl e clique na tecla de espaço.
+	 *   Irão aparecer opções. Selecione e clique na primeira opção. Pronto.
+	 */
+	
+	public static void main(String[] args){
+		System.out.println(); // Atalho:  syso seguido de ctrl e espaço em branco.
+	}
+}
