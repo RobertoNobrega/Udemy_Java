@@ -1,0 +1,21 @@
+package fundamentos;
+
+public class PrimeiroPrograma {
+	
+	/*
+	 * 		Atalho para criar o método main
+	 *   Digite o nome main. Depois, segure a tecla ctrl e clique na tecla de espaço.
+	 *   Irão aparecer opções. Selecione e clique na primeira opção. Pronto.
+	 */
+	
+	public static void main(String[] args){
+		System.out.println(); // Atalho:  syso seguido de ctrl e espaço em branco.
+	} // OBS: Entre { e } , temos o "bloco de código". Ou seja, por exemplo, o método main é um bloco de código.
+	
+	// Abaixo, temos um outro exemplo de "bloco de código". OBS: Sentença é uma linha de código, que encerra com
+	// ponto e vírgula.
+	{
+		; // Sentença 1.
+		; // Sentença 2.
+	}
+}
